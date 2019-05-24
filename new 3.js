@@ -1,3 +1,4 @@
-var msg="hellow world";
-        alert (msg);
-        document.write("hellow world);
+var msg = "Hello, world!";
+            alert(msg);
+            console.log("Hello, console!");
+            document.write("Hello, document!");
